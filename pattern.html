@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Pattern</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="main.js"></script>
+</head>
+<body>
+    <div class="box">
+        <h2 class="namelable">Enter Name</h2>
+        <input type="text" class="name" id="input1" oninput="checkName()"><span id="nameerror"></span>
+
+        <h2 class="emaillable">Enter Email ID</h2>
+        <input type="text" class="name" id="input2" onblur="checkEmail()"><span id="emailerror"></span>
+
+        <h2 class="phonelable">Enter Landline Number</h2>
+        <input type="text" class="name" id="input3" oninput="checkPhone()"><span id="phoneerror"></span>
+
+        <h2 class="multilable">Enter Text</h2>
+        <input type="text" class="name" id="input4" oninput="checkText()"><span id="texterror"></span>
+    </div>
+    
+</body>
+</html>

@@ -1,0 +1,4 @@
+1. Name Pattern
+2. Email Pattern Ex: example@domain.co.in
+3. Contact number for landline
+4. Pattern having 2 capital letter, 2 lowercase letters and 2 numerics each. Ex: AAaa11

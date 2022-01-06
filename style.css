@@ -1,0 +1,91 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.box{
+    width: 70%;
+    height: 400px;
+    background-color: skyblue;
+    border-radius: 45px;
+    margin-left: 14.5%;
+    margin-top: 10%;
+}
+.namelable{
+padding-top:5.5%;
+margin-left:31.4%;
+float: left;
+font-size: 24px;
+font-family: 'Courier New', Courier, monospace
+}
+
+.emaillable{
+    padding-top:5.5%;
+    margin-left:26%;
+    float: left;
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace
+}
+
+.phonelable{
+    padding-top:5.5%;
+    margin-left:16.5%;
+    float: left;
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace
+}
+.multilable{
+    padding-top:5.5%;
+    margin-left:31.2%;
+    float: left;
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace
+}
+
+.name{
+    margin-top:5%;
+    width: 23%;
+    padding:5px;
+    margin-left:2%;
+    float: left;
+    border-radius: 5px;
+    border:1px solid black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 500; 
+}
+
+#nameerror{
+padding-top:5.5%;
+margin-left:1%;
+float: left;
+font-size: 20px;
+font-family: 'Courier New', Courier, monospace;
+font-weight: 500;
+}
+
+#emailerror{
+margin-top:5.5%;
+margin-left:1%;
+float: left;
+font-size: 20px;
+font-family: 'Courier New', Courier, monospace;
+font-weight: 500;
+}
+
+#phoneerror{
+margin-top:5.5%;
+margin-left:1%;
+float: left;
+font-size: 20px;
+font-family: 'Courier New', Courier, monospace;
+font-weight: 500;
+}
+
+#texterror{
+margin-top:5.5%;
+margin-left:1%;
+float: left;
+font-size: 20px;
+font-family: 'Courier New', Courier, monospace;
+font-weight: 500;
+}
